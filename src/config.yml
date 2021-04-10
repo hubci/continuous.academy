@@ -1,0 +1,19 @@
+baseurl: "https://Continuous.Academy/"
+title: "Continuous.Academy"
+author: "Ricardo N Feliciano (FelicianoTech)"
+canonifyurls: true
+paginate: 3
+
+theme: "hugo-theme-lean-launch-page"
+
+googleAnalytics: "G-E4JBJ1GXTW"
+
+params:
+  tagline: "Building an educational website around the concepts & tooling in Continuous Integration and Deployment."
+  mailchimpURL: "//gmail.us18.list-manage.com/subscribe/post?u=48d8981d6cc5d5909157193bb&amp;id=4be889a050&amp;f_id=007114e7f0"
+
+  mastodon: "https://nanobyte.cafe/@ContinuousAcademy"
+  twitter: "https://twitter.com/ContinuousAcad"
+  github: "https://github.com/HubCI/Continuous.Academy"
+  images:
+    - "favicon.png"
